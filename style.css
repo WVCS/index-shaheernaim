@@ -1,3 +1,11 @@
-body {
+body{
+  background-color: lightblue;
+}
 
+h2{
+  color:orange;
+  text-align:center;
+  background-color:blue;
+  border:5px black dashed;
+  font-size: 67px;
 }
